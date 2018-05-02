@@ -26,4 +26,6 @@ Could get rid of calculations by:
  
  - This is the 'Sieve Of Eratosthenes'
  
+ BUT will need to keep all those numbers in memory. numpy array probably...
+ 
  """
